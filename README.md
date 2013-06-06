@@ -19,8 +19,8 @@ As I felt pretty format is too verbose ;) , Lookng at [SlowHandCuke] (https://gi
 How To Install
 ==============
 
-Just copy arrioo_formatter to features/support/
-Then <code> add -f arrioo </code>to your cucumber command-line.
+Just copy "arrioo_formatter" to "features/support/"
+Then add <code> -f arrioo </code>to your cucumber command-line.
 
 
 
